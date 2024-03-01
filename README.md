@@ -20,19 +20,19 @@ This exclusive community offers a unique opportunity to expand your professional
 <tbody>
 <tr>
 <td>Submit a session</td>
-<td>[<a href="https://sessionize.com/microsoft-governance-user-group/">https://sessionize.com/microsoft-governance-user-group/</a>][PlDb]</td>
+<td>[<a href="https://sessionize.com/microsoft-governance-user-group/">https://sessionize.com/microsoft-governance-user-group/</a>]</td>
 </tr>
 <tr>
 <td>Learn more about the meetup</td>
-<td>[<a href="https://www.meetup.com/microsoft-governance-user-group/">https://www.meetup.com/microsoft-governance-user-group/</a>][PlGh]</td>
+<td>[<a href="https://www.meetup.com/microsoft-governance-user-group/">https://www.meetup.com/microsoft-governance-user-group/</a>]</td>
 </tr>
 <tr>
 <td>View previous meetup recordings</td>
-<td>[<a href="https://www.youtube.com/@yggdrasil13">https://www.youtube.com/@yggdrasil13</a>][PlGd]</td>
+<td>[<a href="https://www.youtube.com/@yggdrasil13">https://www.youtube.com/@yggdrasil13</a>]</td>
 </tr>
 <tr>
 <td>Connect with us on LinkedIn Group</td>
-<td>[<a href="https://www.linkedin.com/company/microsoft-governance-user-group/">https://www.linkedin.com/company/microsoft-governance-user-group/</a>][PlOd]</td>
+<td>[<a href="https://www.linkedin.com/company/microsoft-governance-user-group/">https://www.linkedin.com/company/microsoft-governance-user-group/</a>]</td>
 </tr>
 </tbody>
 </table>
