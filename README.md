@@ -1,14 +1,3 @@
-SERVICES
-DOCUMENTS
-Microsoft Governance User Group.md
-PREVIEW AS 
-EXPORT AS 
-SAVE TO 
-IMPORT FROM 
-DOCUMENT NAME
-Microsoft Governance User Group.md
-MARKDOWNPREVIEWToggle Mode
-  
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Microsoft_Governance_User_Group_Repository_0"></a>Microsoft Governance User Group Repository</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_Consolidated_location_for_meetup_resources__1"></a><em>Consolidated location for meetup resources</em></h2>
 <p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://www.meetup.com/microsoft-governance-user-group/"><img src="https://secure.meetupstatic.com/photos/event/8/6/d/2/clean_518554514.webp" alt="N|Solid"></a></p>
@@ -19,8 +8,7 @@ MARKDOWNPREVIEWToggle Mode
 This exclusive community offers a unique opportunity to expand your professional network while gaining valuable insights into the latest industry trends. Stay updated on cutting-edge Microsoft governance tools and practices in a supportive and collaborative environment. Join us to foster connections, enhance your knowledge, and stay at the forefront of governance excellence.</p>
 <h4 class="code-line" data-line-start=12 data-line-end=13 ><a id="_12"></a></h4>
 <h5 class="code-line" data-line-start=13 data-line-end=14 ><a id="We_record_the_events_to_maximize_its_reach_13"></a>We record the events to maximize its reach.</h5>
-<h5 class="code-line" data-line-start=14 data-line-end=15 ><a id="_14"></a>.</h5>
-<pre><code class="has-line-data" data-line-start="16" data-line-end="18" class="language-sh">The sessions are open to all and accessible to all. 
+<pre><code class="has-line-data" data-line-start="15" data-line-end="17" class="language-sh">The sessions are open to all and accessible to all. 
 </code></pre>
 <table class="table table-striped table-bordered">
 <thead>
