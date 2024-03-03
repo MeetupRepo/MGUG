@@ -8,7 +8,7 @@
 This exclusive community offers a unique opportunity to expand your professional network while gaining valuable insights into the latest industry trends. Stay updated on cutting-edge Microsoft governance tools and practices in a supportive and collaborative environment. Join us to foster connections, enhance your knowledge, and stay at the forefront of governance excellence.</p>
 <h4 class="code-line" data-line-start=12 data-line-end=13 ><a id="_12"></a></h4>
 <h5 class="code-line" data-line-start=13 data-line-end=14 ><a id="We_record_the_events_to_maximize_its_reach_13"></a>We record the events to maximize its reach.</h5>
-<pre><code class="has-line-data" data-line-start="15" data-line-end="17" class="language-sh">The sessions are open to all and accessible to all. 
+<pre><code class="has-line-data" data-line-start="15" data-line-end="17" class="language-sh">  The sessions are open to all and accessible to all. 
   <b>Consider submitting a session if you have something interesting to share in the field.</b>
 </code></pre>
 <table class="table table-striped table-bordered">
