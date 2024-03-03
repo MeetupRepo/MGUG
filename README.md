@@ -10,7 +10,7 @@ This exclusive community offers a unique opportunity to expand your professional
 <h5 class="code-line" data-line-start=13 data-line-end=14 ><a id="We_record_the_events_to_maximize_its_reach_13"></a>We record the events to maximize its reach.</h5>
 <pre><code class="has-line-data" data-line-start="15" data-line-end="17" class="language-sh">
   The sessions are open to all and accessible to all. 
-  <b style="color:red;">Consider submitting a session if you have something interesting to share in the field.</b>
+  <b>Consider submitting a session if you have something interesting to share in the field.</b>
 </code></pre>
 <table class="table table-striped table-bordered">
 <thead>
@@ -21,7 +21,7 @@ This exclusive community offers a unique opportunity to expand your professional
 </thead>
 <tbody>
 <tr>
-<td><p>Submit a session</p></td>
+<td><font color="green"> Submit a session </font></td>
 <td><a href="https://sessionize.com/microsoft-governance-user-group/">https://sessionize.com/microsoft-governance-user-group/</a></td>
 </tr>
 <tr>
