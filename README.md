@@ -21,7 +21,7 @@ This exclusive community offers a unique opportunity to expand your professional
 </thead>
 <tbody>
 <tr>
-<td><font color="green"> Submit a session </font></td>
+<td>Submit a session</td>
 <td><a href="https://sessionize.com/microsoft-governance-user-group/">https://sessionize.com/microsoft-governance-user-group/</a></td>
 </tr>
 <tr>
