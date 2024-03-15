@@ -37,3 +37,9 @@ This exclusive community offers a unique opportunity to expand your professional
 </tr>
 </tbody>
 </table>
+
+<pre><code class="has-line-data" data-line-start="15" data-line-end="17" class="language-sh">  <b>Speakers can submit the session content by the following process</b>
+  Fork the repository
+  Add your content 
+  Submit a merge\pull request
+</code></pre>
